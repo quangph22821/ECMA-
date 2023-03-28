@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "iphone15",
+      "price": "2300000",
+      "desc": "may dep k bi hong",
+      "id": 3
+    },
+    {
+      "name": "Macbook pro",
+      "price": "220000000",
+      "desc": "Laptop doi moi",
+      "id": 4
+    },
+    {
+      "name": "Iphone 14 pro",
+      "price": "15000000",
+      "desc": "Máy mới của apple",
+      "id": 5
+    },
+    {
+      "name": "Iphone 13",
+      "price": "18000000",
+      "desc": "Máy mới  nguyên bản",
+      "id": 6
+    },
+    {
+      "name": "adasdasdasd",
+      "price": "51",
+      "desc": "may dep ",
+      "id": 7
+    }
+  ]
+}
